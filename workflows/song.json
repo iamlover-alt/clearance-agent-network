@@ -1,0 +1,9 @@
+{
+  "name": "Song drop",
+  "line": "Write it, tag it, read the hook.",
+  "agents": [
+    {"id": "suno", "name": "Suno", "host": "suno.com", "url": "https://suno.com", "delivers": "Lyric sheet and arrangement"},
+    {"id": "musiio", "name": "Musiio", "host": "musiio.com", "url": "https://www.musiio.com", "delivers": "Tag sheet"},
+    {"id": "eleven", "name": "ElevenLabs", "host": "elevenlabs.io", "url": "https://elevenlabs.io", "delivers": "Read direction"}
+  ]
+}

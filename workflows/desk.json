@@ -1,0 +1,11 @@
+{
+  "name": "Research desk",
+  "line": "Sources, the code angle, a model check, the close.",
+  "agents": [
+    {"id": "perplexity", "name": "Perplexity", "host": "perplexity.ai", "url": "https://www.perplexity.ai", "delivers": "Sourced brief"},
+    {"id": "phind", "name": "Phind", "host": "phind.com", "url": "https://www.phind.com", "delivers": "Issue brief"},
+    {"id": "poe", "name": "Poe", "host": "poe.com", "url": "https://poe.com", "delivers": "Model bake-off"},
+    {"id": "claude", "name": "Claude", "host": "claude.ai", "url": "https://claude.ai", "delivers": "Final pass"},
+    {"id": "gamma", "name": "Gamma", "host": "gamma.app", "url": "https://gamma.app", "delivers": "Deck spine"}
+  ]
+}

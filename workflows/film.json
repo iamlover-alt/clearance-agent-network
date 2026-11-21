@@ -1,0 +1,11 @@
+{
+  "name": "Product film",
+  "line": "Still, two motion desks, cutdowns, a presenter.",
+  "agents": [
+    {"id": "krea", "name": "Krea", "host": "krea.ai", "url": "https://krea.ai", "delivers": "Live direction notes"},
+    {"id": "runway", "name": "Runway", "host": "runwayml.com", "url": "https://runwayml.com", "delivers": "Shot sequence"},
+    {"id": "kling", "name": "Kling", "host": "klingai.kuaishou.com", "url": "https://klingai.kuaishou.com", "delivers": "Motion continuity"},
+    {"id": "opus", "name": "Opus", "host": "opus.pro", "url": "https://www.opus.pro", "delivers": "Clip map"},
+    {"id": "did", "name": "D-ID", "host": "d-id.com", "url": "https://www.d-id.com", "delivers": "Presenter brief"}
+  ]
+}

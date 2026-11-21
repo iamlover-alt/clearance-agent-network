@@ -1,0 +1,12 @@
+{
+  "name": "Ship a site",
+  "line": "Research, diagram, interface, code, deploy, deck.",
+  "agents": [
+    {"id": "perplexity", "name": "Perplexity", "host": "perplexity.ai", "url": "https://www.perplexity.ai", "delivers": "Sourced brief"},
+    {"id": "napkin", "name": "Napkin", "host": "napkin.ai", "url": "https://www.napkin.ai", "delivers": "Diagram outline"},
+    {"id": "v0", "name": "v0", "host": "v0.app", "url": "https://v0.app", "delivers": "Interface spec"},
+    {"id": "cursor", "name": "Cursor", "host": "cursor.com", "url": "https://cursor.com", "delivers": "Implementation notes"},
+    {"id": "bolt", "name": "Bolt", "host": "bolt.new", "url": "https://bolt.new", "delivers": "Build prompt"},
+    {"id": "gamma", "name": "Gamma", "host": "gamma.app", "url": "https://gamma.app", "delivers": "Deck spine"}
+  ]
+}

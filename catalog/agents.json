@@ -1,0 +1,302 @@
+[
+  {
+    "n": 1,
+    "id": "raphael",
+    "name": "Raphael",
+    "host": "raphael.ai",
+    "url": "https://raphael.ai",
+    "lane": "picture",
+    "delivers": "Shot list and prompt deck",
+    "blurb": "Unlimited stills when a brief needs a look, not a login wall."
+  },
+  {
+    "n": 2,
+    "id": "krea",
+    "name": "Krea",
+    "host": "krea.ai",
+    "url": "https://krea.ai",
+    "lane": "picture",
+    "delivers": "Live direction notes",
+    "blurb": "Draws while you steer. Real-time image generation."
+  },
+  {
+    "n": 3,
+    "id": "magnific",
+    "name": "Magnific",
+    "host": "magnific.ai",
+    "url": "https://magnific.ai",
+    "lane": "picture",
+    "delivers": "Upscale spec",
+    "blurb": "Upscale that invents the detail the file never had."
+  },
+  {
+    "n": 4,
+    "id": "clipdrop",
+    "name": "Clipdrop",
+    "host": "clipdrop.co",
+    "url": "https://clipdrop.co",
+    "lane": "picture",
+    "delivers": "Cleanup ticket",
+    "blurb": "One-click cleanup: background, light, erase."
+  },
+  {
+    "n": 5,
+    "id": "eleven",
+    "name": "ElevenLabs",
+    "host": "elevenlabs.io",
+    "url": "https://elevenlabs.io",
+    "lane": "voice",
+    "delivers": "Read direction",
+    "blurb": "A voice read in seconds. Use it on voices you have the right to use."
+  },
+  {
+    "n": 6,
+    "id": "suno",
+    "name": "Suno",
+    "host": "suno.com",
+    "url": "https://suno.com",
+    "lane": "sound",
+    "delivers": "Lyric sheet and arrangement",
+    "blurb": "Lyrics in, a full song out."
+  },
+  {
+    "n": 7,
+    "id": "runway",
+    "name": "Runway",
+    "host": "runwayml.com",
+    "url": "https://runwayml.com",
+    "lane": "motion",
+    "delivers": "Shot sequence",
+    "blurb": "The video-generation desk. Gen-3 when the still has to move."
+  },
+  {
+    "n": 8,
+    "id": "kling",
+    "name": "Kling",
+    "host": "klingai.kuaishou.com",
+    "url": "https://klingai.kuaishou.com",
+    "lane": "motion",
+    "delivers": "Motion continuity",
+    "blurb": "Kuaishou’s smoother long take. Good when motion has to hold."
+  },
+  {
+    "n": 9,
+    "id": "did",
+    "name": "D-ID",
+    "host": "d-id.com",
+    "url": "https://www.d-id.com",
+    "lane": "motion",
+    "delivers": "Presenter brief",
+    "blurb": "One still plus one clip becomes a talking presenter you commissioned."
+  },
+  {
+    "n": 10,
+    "id": "sadtalker",
+    "name": "SadTalker",
+    "host": "sadtalker.ai",
+    "url": "https://sadtalker.ai",
+    "lane": "motion",
+    "delivers": "Portrait performance",
+    "blurb": "Turns a still portrait into a talking take."
+  },
+  {
+    "n": 11,
+    "id": "cursor",
+    "name": "Cursor",
+    "host": "cursor.com",
+    "url": "https://cursor.com",
+    "lane": "code",
+    "delivers": "Implementation notes",
+    "blurb": "The editor that writes with you. Daily quota covers a real pass."
+  },
+  {
+    "n": 12,
+    "id": "bolt",
+    "name": "Bolt",
+    "host": "bolt.new",
+    "url": "https://bolt.new",
+    "lane": "code",
+    "delivers": "Build prompt",
+    "blurb": "Talk a site into existence. No local toolchain."
+  },
+  {
+    "n": 13,
+    "id": "v0",
+    "name": "v0",
+    "host": "v0.app",
+    "url": "https://v0.app",
+    "lane": "code",
+    "delivers": "Interface spec",
+    "blurb": "A description becomes a frontend you can keep."
+  },
+  {
+    "n": 14,
+    "id": "replit",
+    "name": "Replit",
+    "host": "replit.com",
+    "url": "https://replit.com",
+    "lane": "code",
+    "delivers": "Deploy plan",
+    "blurb": "Code, agent, and a one-click deploy in the same tab."
+  },
+  {
+    "n": 15,
+    "id": "napkin",
+    "name": "Napkin",
+    "host": "napkin.ai",
+    "url": "https://www.napkin.ai",
+    "lane": "picture",
+    "delivers": "Diagram outline",
+    "blurb": "Paste prose. Get an infographic that actually explains it."
+  },
+  {
+    "n": 16,
+    "id": "gamma",
+    "name": "Gamma",
+    "host": "gamma.app",
+    "url": "https://gamma.app",
+    "lane": "words",
+    "delivers": "Deck spine",
+    "blurb": "A deck from a paragraph. Leave the slideware behind."
+  },
+  {
+    "n": 17,
+    "id": "notion",
+    "name": "Notion AI",
+    "host": "notion.com/product/ai",
+    "url": "https://www.notion.com/product/ai",
+    "lane": "words",
+    "delivers": "Working doc",
+    "blurb": "Write, compress, and translate inside the doc you already live in."
+  },
+  {
+    "n": 18,
+    "id": "uizard",
+    "name": "Uizard",
+    "host": "uizard.io",
+    "url": "https://uizard.io",
+    "lane": "code",
+    "delivers": "Screen map",
+    "blurb": "A sketch on paper becomes a screen you can hand off."
+  },
+  {
+    "n": 19,
+    "id": "perplexity",
+    "name": "Perplexity",
+    "host": "perplexity.ai",
+    "url": "https://www.perplexity.ai",
+    "lane": "search",
+    "delivers": "Sourced brief",
+    "blurb": "Answers with sources, fast enough to start the chain."
+  },
+  {
+    "n": 20,
+    "id": "phind",
+    "name": "Phind",
+    "host": "phind.com",
+    "url": "https://www.phind.com",
+    "lane": "search",
+    "delivers": "Issue brief",
+    "blurb": "Search that stays inside the codebase problem."
+  },
+  {
+    "n": 21,
+    "id": "otter",
+    "name": "Otter",
+    "host": "otter.ai",
+    "url": "https://otter.ai",
+    "lane": "voice",
+    "delivers": "Transcript cuts",
+    "blurb": "Live meeting transcript. A few hundred free minutes a month."
+  },
+  {
+    "n": 22,
+    "id": "opus",
+    "name": "Opus",
+    "host": "opus.pro",
+    "url": "https://www.opus.pro",
+    "lane": "motion",
+    "delivers": "Clip map",
+    "blurb": "Finds the clips worth posting and cuts them."
+  },
+  {
+    "n": 23,
+    "id": "poe",
+    "name": "Poe",
+    "host": "poe.com",
+    "url": "https://poe.com",
+    "lane": "words",
+    "delivers": "Model bake-off",
+    "blurb": "One desk for the big models. Compare, don’t guess."
+  },
+  {
+    "n": 24,
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "host": "huggingface.co/spaces",
+    "url": "https://huggingface.co/spaces",
+    "lane": "code",
+    "delivers": "Model shortlist",
+    "blurb": "Open models you can run in a browser Space."
+  },
+  {
+    "n": 25,
+    "id": "removebg",
+    "name": "remove.bg",
+    "host": "remove.bg",
+    "url": "https://www.remove.bg",
+    "lane": "picture",
+    "delivers": "Cutout spec",
+    "blurb": "Background gone in about a second."
+  },
+  {
+    "n": 26,
+    "id": "cleanup",
+    "name": "Cleanup",
+    "host": "cleanup.pictures",
+    "url": "https://cleanup.pictures",
+    "lane": "picture",
+    "delivers": "Erase list",
+    "blurb": "Paint over an object. It leaves."
+  },
+  {
+    "n": 27,
+    "id": "deepswap",
+    "name": "DeepSwap",
+    "host": "deepswap.ai",
+    "url": "https://www.deepswap.ai",
+    "lane": "picture",
+    "delivers": "Consent gate",
+    "blurb": "Face replacement in a minute. Only with consent, and say so."
+  },
+  {
+    "n": 28,
+    "id": "musiio",
+    "name": "Musiio",
+    "host": "musiio.com",
+    "url": "https://www.musiio.com",
+    "lane": "sound",
+    "delivers": "Tag sheet",
+    "blurb": "Tags a track so a catalog can actually find it."
+  },
+  {
+    "n": 29,
+    "id": "jasper",
+    "name": "Jasper",
+    "host": "jasper.ai/free",
+    "url": "https://www.jasper.ai/free",
+    "lane": "words",
+    "delivers": "Draft pass",
+    "blurb": "A writing desk with a free tier that covers a day’s drafts."
+  },
+  {
+    "n": 30,
+    "id": "claude",
+    "name": "Claude",
+    "host": "claude.ai",
+    "url": "https://claude.ai",
+    "lane": "words",
+    "delivers": "Final pass",
+    "blurb": "Long context, careful edits, the closer on a messy brief."
+  }
+]

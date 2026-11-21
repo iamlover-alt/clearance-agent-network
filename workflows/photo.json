@@ -1,0 +1,10 @@
+{
+  "name": "Photo finish",
+  "line": "Clean light, erase, upscale, cut out.",
+  "agents": [
+    {"id": "clipdrop", "name": "Clipdrop", "host": "clipdrop.co", "url": "https://clipdrop.co", "delivers": "Cleanup ticket"},
+    {"id": "cleanup", "name": "Cleanup", "host": "cleanup.pictures", "url": "https://cleanup.pictures", "delivers": "Erase list"},
+    {"id": "magnific", "name": "Magnific", "host": "magnific.ai", "url": "https://magnific.ai", "delivers": "Upscale spec"},
+    {"id": "removebg", "name": "remove.bg", "host": "remove.bg", "url": "https://www.remove.bg", "delivers": "Cutout spec"}
+  ]
+}

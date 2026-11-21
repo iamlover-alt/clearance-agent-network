@@ -1,0 +1,10 @@
+{
+  "name": "Meeting to memo",
+  "line": "Transcript, doc, long edit, public draft.",
+  "agents": [
+    {"id": "otter", "name": "Otter", "host": "otter.ai", "url": "https://otter.ai", "delivers": "Transcript cuts"},
+    {"id": "notion", "name": "Notion AI", "host": "notion.com/product/ai", "url": "https://www.notion.com/product/ai", "delivers": "Working doc"},
+    {"id": "claude", "name": "Claude", "host": "claude.ai", "url": "https://claude.ai", "delivers": "Final pass"},
+    {"id": "jasper", "name": "Jasper", "host": "jasper.ai/free", "url": "https://www.jasper.ai/free", "delivers": "Draft pass"}
+  ]
+}
